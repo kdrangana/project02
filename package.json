@@ -1,9 +1,9 @@
 {
-  "name": "kdj-test-2",
+  "name": "kd-test-4",
   "version": "0.0.1",
-  "description": "My First Project",
-  "productName": "KDJ Test App 2",
-  "author": "KD Rangana <kdrangana@gmail.com>",
+  "description": "my third attempt",
+  "productName": "KD Test 4",
+  "author": "KD<kdrangana@gmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",

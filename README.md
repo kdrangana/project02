@@ -1,6 +1,6 @@
-# KDJ Test App 2 (kdj-test-2)
+# KD Test 4 (kd-test-4)
 
-My First Project
+my third attempt
 
 ## Install the dependencies
 ```bash
